@@ -29,3 +29,6 @@ e2e/playwright/.cache/
 frontend/frontend-sdk/dist/
 frontend/frontend-sdk/node_modules/
 frontend/frontend-sdk/coverage
+.gitsecret/keys/random_seed
+!*.secret
+backend/config/config.yaml
